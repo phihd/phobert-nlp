@@ -1,0 +1,22 @@
+Np Proper noun
+Nc Classifier noun
+Nu Unit noun
+N Noun
+Ny Abbreviated noun
+Nb (Foreign) borrowed noun
+V Verb
+Vb (Foreign) borrowed verb
+A Adjective
+P Pronoun
+R Adverb
+L Determiner
+M Numeral/Quantity
+E Preposition
+C Subordinating conjunction
+Cc Coordinating conjunction
+I Interjection/Exclamation
+T Particle/Auxiliary, modal words
+Y Abbreviation
+Z Bound morpheme
+X Un-definition/Other
+CH Punctuation and symbols
